@@ -78,10 +78,15 @@ mark{
 	font-size: 1.15rem;
 	font-weight: 300;
 }
-.lead-big {
-	font-size: 1.55rem;
-	line-height: 1.6;
+.lead-1 {
+	font-size: 1.15rem;
+	line-height: 4;
 	font-weight: 300;
+}
+.lead-big {
+	font-size: 1.15rem;
+	line-height: 2;
+	font-weight: 200;
 }
 
 /* #Preloader style
